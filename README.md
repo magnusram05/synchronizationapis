@@ -1,4 +1,4 @@
-#Java 5 - Synchronization APIS
+# Java 5 - Synchronization APIS
 
 ## Problem statement ##
 Often times, application threads need to coordinate among themselves before proceeding with further execution.  Prior to Java 5, this was little cumbersome and error-prone to implement as we had to roll our own implementation to achieve inter-thread communication using the low-level synchronization APIs such as notify() and wait().
